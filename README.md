@@ -25,15 +25,23 @@ End the program
 
 ## Program:
 Program to circulate N values.
+
 Developed by : RITHISH P
+
 Reference no : 212223230173
+
 def circulate():
+
     b=a[n:]+a[:n]
+    
     print("After circulating the values are:",b)
+    
 a=eval(input())
+
 n=int(input())
 ## Output:
-![image](https://github.com/RITHISHlearn/Circulate-the-values-of-N-variables/assets/145446645/0f79e9b8-574c-4bf0-a850-01812cf692b7)
+![image](https://github.com/RITHISHlearn/Circulate-the-values-of-N-variables/assets/145446645/9328064a-0188-4c74-92db-424b5cde9129)
+
 
 ## Result:
 The output for circulate the values of n variables is successfull.
