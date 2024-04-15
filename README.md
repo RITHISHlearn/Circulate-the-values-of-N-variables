@@ -9,7 +9,7 @@ Anaconda - Python 3.7
 Get the values from the user
 
 ### Step 2: 
-Assign the value of variable to a temporary variable
+Assign the value of variable to a temporary variable.
 
 ### Step 3: 
 Get the value from the user for the number of rotation
